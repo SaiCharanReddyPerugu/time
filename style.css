@@ -62,11 +62,25 @@ h2 {
 }
 
 .buttons button {
+    background-color: Transparent;
     margin: 5px;
     padding: 10px 20px;
     font-size: 16px;
     cursor: pointer;
     border-radius: 5px;
+    border-style: Solid;
+    border-color: #4F4F4F;
+}
+
+.buttons button:hover {
+    background-color: #4F4F4F;
+    color: White;
+    margin: 5px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    border-style: Solid;
     border-color: #4F4F4F;
 }
 
