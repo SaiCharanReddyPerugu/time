@@ -1,4 +1,4 @@
-let workDuration = 110 * 60; // 25 minutes
+let workDuration = 120 * 60; // 25 minutes
 let shortBreakDuration = 5 * 60; // 5 minutes
 let longBreakDuration = 15 * 60; // 15 minutes
 let cyclesBeforeLongBreak = 4; // Number of cycles before a long break
